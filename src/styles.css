@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+
+a {
+  margin: 1rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  background: lightblue;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
